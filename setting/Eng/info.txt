@@ -1,0 +1,3 @@
+Total students in the group -
+Total gaps in the group -
+Average student passes -
