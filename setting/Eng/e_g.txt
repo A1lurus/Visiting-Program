@@ -1,0 +1,3 @@
+Enter the group => 
+Enter first and last name (max 15 characters) => 
+Enter the total number of missed class => 

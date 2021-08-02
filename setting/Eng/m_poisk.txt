@@ -1,0 +1,7 @@
+	Student - 
+	
+	1. Remove student
+	
+	2. Change student details
+	
+	ESC. Exit

@@ -1,0 +1,17 @@
+
+
+
+	- SORT MENU -
+	
+	1. By the name
+	
+	2. By surname
+	
+	3. By passes
+	
+	ESC. Exit
+	
+	
+	1. Fall (A - Z; 0 - n)
+	
+	2. Growth (Z - A; n - 0)
