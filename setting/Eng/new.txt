@@ -1,3 +1,0 @@
-Enter a new name => 
-Enter a new last name => 
-Enter the new number of skips => 

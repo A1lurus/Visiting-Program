@@ -1,3 +1,0 @@
-Enter the group => 
-Enter first and last name (max 15 characters) => 
-Enter the pass => 
